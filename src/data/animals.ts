@@ -60,7 +60,7 @@ export const animals: Animal[] = [
     id: "7",
     name: "Cockatiel",
     price: 200,
-    image: "https://images.unsplash.com/photo-1591198936750-16d8e15edc57?w=600&h=400&fit=crop",
+    image: "https://as2.ftcdn.net/v2/jpg/01/01/40/47/1000_F_101404772_JjTd16DCmg9xZXoWqkJWVFZ6DkUsqmZ0.jpg",
     category: "Birds",
     description: "Friendly whistling companion"
   },
