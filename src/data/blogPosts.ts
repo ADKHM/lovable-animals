@@ -45,7 +45,7 @@ export const blogPosts: BlogPost[] = [
     title: "Creating the Perfect Habitat for Small Pets",
     excerpt: "From hamsters to rabbits, small pets need special environments. Here's how to set up their ideal home.",
     content: "Full article content here...",
-    image: "https://images.unsplash.com/photo-1535241749838-299f6dd40d9a?w=800&h=500&fit=crop",
+    image: "https://media.istockphoto.com/id/525140239/photo/golden-hamster.jpg?s=612x612&w=0&k=20&c=oq8ybQCjuWhAujW8L30ugegugqQ8qXxydLLPO76_fl0=",
     author: "Michael Torres",
     date: "November 28, 2025",
     category: "Small Pets"
